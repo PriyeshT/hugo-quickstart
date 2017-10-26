@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[params]
+	lang = "en-US"
+	description = "Portfolio website of Priyesh Tungare, a Singapore based UX Developer and UX Consultant"
+	keywords = "UX Developer, UX Consultant, Singapore, Front End Developer, HTML5, CSS3, Javascript"
